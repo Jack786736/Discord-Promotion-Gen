@@ -1,4 +1,7 @@
+# PATCHED, MEDAL.TV CHANGED ENDPOINTS. NEW VERSION FOR SALE T.ME/NOTQIZQ
+
 # Discord-Promotion-Gen
+
 Discord Promotion Link gen abusing the medal.tv api.
 
 
